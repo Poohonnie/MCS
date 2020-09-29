@@ -16,7 +16,7 @@ namespace Task_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 计算器());
+            Application.Run(new Calculator());
         }
     }
 }
